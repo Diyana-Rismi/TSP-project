@@ -1,0 +1,51 @@
+index,name,diet,prep_time,cook_time,flavor_profile,course,state,region,quantity_g,rate_rs
+1,Balu shahi,vegetarian,45,25,sweet,dessert,West Bengal,East,50,1000
+2,Boondi,vegetarian,80,30,sweet,dessert,Rajasthan,West,100,800
+3,Gajar ka halwa,vegetarian,15,60,sweet,dessert,Punjab,North,250,500
+4,Ghevar,vegetarian,15,30,sweet,dessert,Rajasthan,West,100,900
+5,Gulab jamun,vegetarian,15,40,sweet,dessert,West Bengal,East,80,450
+6,Imarti,vegetarian,10,50,sweet,dessert,West Bengal,East,45,600
+7,Jalebi,vegetarian,10,50,sweet,dessert,Uttar Pradesh,North,100,500
+8,Butter chicken,non vegetarian,10,35,spicy,main course,Delhi,North,300,1000
+9,Kalakand,vegetarian,20,30,sweet,dessert,West Bengal,East,400,850
+10,Kheer,vegetarian,10,40,sweet,dessert,Punjab,North,250,800
+11,Laddu,vegetarian,10,40,sweet,dessert,Odisha,East,500,600
+12,Lassi,vegetarian,5,5,sweet,dessert,Punjab,North,600,500
+13,Nankhatai,vegetarian,20,30,sweet,dessert,Rajasthan,West,250,1000
+14,Petha,vegetarian,10,30,sweet,dessert,Uttar Pradesh,North,200,850
+15,Phirni,vegetarian,30,20,sweet,dessert,Odisha,East,100,500
+16,Rabri,vegetarian,10,45,sweet,dessert,Uttar Pradesh,North,150,800
+17,Sheera,vegetarian,10,25,sweet,dessert,Maharashtra,West,750,1000
+18,Singori,vegetarian,10,20,sweet,dessert,Uttarakhand,North,800,500
+19,Sohan halwa,vegetarian,10,60,sweet,dessert,Uttar Pradesh,North,450,900
+20,Sohan papdi,vegetarian,-1,60,sweet,dessert,Maharashtra,West,730,1000
+21,Chhena jalebi,vegetarian,10,50,sweet,dessert,Odisha,East,220,500
+22,Chhena kheeri,vegetarian,-1,60,sweet,dessert,Odisha,East,650,900
+23,Chhena poda,vegetarian,10,45,sweet,dessert,Odisha,East,200,700
+24,Cham cham,vegetarian,40,60,sweet,dessert,West Bengal,East,900,600
+25,Kheer sagar,vegetarian,25,60,sweet,dessert,Odisha,East,500,800
+26,Ledikeni,vegetarian,45,45,sweet,dessert,West Bengal,East,480,780
+27,Lyangcha,vegetarian,20,30,sweet,dessert,Assam,North East,200,900
+28,Malapua,vegetarian,10,120,sweet,dessert,Bihar,North,100,1000
+29,Mihidana,vegetarian,15,30,sweet,dessert,West Bengal,East,690,950
+30,Misti doi,vegetarian,480,30,sweet,dessert,West Bengal,East,520,850
+31,Pantua,vegetarian,45,45,sweet,dessert,West Bengal,East,740,500
+32,Pithe,vegetarian,15,35,sweet,dessert,Assam,North East,850,950
+33,Rasabali,vegetarian,15,30,sweet,dessert,Odisha,East,340,600
+34,Ras malai,vegetarian,180,60,sweet,dessert,West Bengal,East,560,500
+35,Rasgulla,vegetarian,10,90,sweet,dessert,West Bengal,East,760,500
+36,Sandesh,vegetarian,30,20,sweet,dessert,West Bengal,East,240,600
+37,Adhirasam,vegetarian,10,50,sweet,dessert,West Bengal,East,860,800
+38,Ariselu,vegetarian,15,75,sweet,dessert,Andhra Pradesh,South,360,850
+39,Bandar laddu,vegetarian,5,35,sweet,dessert,Andhra Pradesh,South,875,1000
+40,Chikki,vegetarian,10,20,sweet,dessert,Maharashtra,West,570,900
+41,Dharwad pedha,vegetarian,20,60,sweet,dessert,Karnataka,South,750,900
+42,Double ka meetha,vegetarian,20,30,sweet,dessert,Telangana,South,340,600
+43,Gavvalu,vegetarian,10,30,sweet,dessert,Andhra Pradesh,South,710,850
+44,Kakinada khaja,vegetarian,10,30,sweet,dessert,Andhra Pradesh,South,590,500
+45,Kuzhi paniyaram,vegetarian,10,20,sweet,dessert,Kerala,South,810,900
+46,Mysore pak,vegetarian,5,20,sweet,dessert,Karnataka,South,960,800
+47,Obbattu holige,vegetarian,180,60,sweet,main course,Karnataka,South,380,500
+48,Palathalikalu,vegetarian,10,25,sweet,dessert,Andhra Pradesh,South,820,600
+49,Poornalu,vegetarian,240,60,sweet,dessert,Andhra Pradesh,South,740,1000
+50,Chicken varuval,non vegetarian,10,35,spicy,main course,Tamil Nadu,South,950,1000
